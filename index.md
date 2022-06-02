@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: ACICE
+description: ADMM Cybersecurity and Information Centre of Excellence
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -35,3 +35,4 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
+
