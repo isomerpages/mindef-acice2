@@ -34,8 +34,9 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/hero-banner.png
   - resources:
       title: Resources Section Title
-      subtitle: Resources Section Subtitle
+      subtitle: Publications
       button: Resources Button Name
 ---
