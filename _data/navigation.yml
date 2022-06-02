@@ -2,7 +2,17 @@ logo: /images/ACICE Logo.png
 links:
   - title: About Us
     url: /about
-    sublinks: []
+    sublinks:
+      - title: "ACICE "
+        url: /acice
+      - title: Organisation Structure
+        url: /orgstructure
+      - title: Mission and Values
+        url: /mv
+      - title: "Our Capabilities "
+        url: "/capabilities "
+      - title: Our Activities
+        url: /activities
   - title: Publications
     url: /publications
   - title: Press & News
