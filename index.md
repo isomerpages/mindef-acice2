@@ -12,7 +12,11 @@ sections:
       background: /images/hero-banner.png
       dropdown:
         title: About Us
-        options: []
+        options:
+          - title: ACICE
+            url: ""
+          - title: Organisation Structure
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -35,4 +39,3 @@ sections:
       subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
-
