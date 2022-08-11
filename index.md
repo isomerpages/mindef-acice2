@@ -14,9 +14,13 @@ sections:
         title: About Us
         options:
           - title: ACICE
-            url: ""
+            url: /acice
           - title: Organisation Structure
-            url: ""
+            url: /orgstructure
+          - title: Capabilites
+            url: /capabilities
+          - title: Activities
+            url: /activities
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -35,4 +39,3 @@ sections:
       subtitle: Publications
       button: Resources Button Name
 ---
-
