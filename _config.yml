@@ -2,8 +2,8 @@ title: ACICE
 url: ""
 favicon: /images/ACICE Logo.png
 colors:
-  primary-color: "#d0021b"
-  secondary-color: "#f8e71c"
+  primary-color: "#d0c502"
+  secondary-color: "#f83a1c"
   media-colors:
     - title: media-color-one
       color: "#f5a623"
