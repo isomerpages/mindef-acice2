@@ -2,17 +2,17 @@ title: ACICE
 url: ""
 favicon: /images/ACICE Logo.png
 colors:
-  primary-color: "#d0c502"
-  secondary-color: "#f83a1c"
+  primary-color: "#e72121"
+  secondary-color: "#f87b1c"
   media-colors:
     - title: media-color-one
-      color: "#f5a623"
+      color: "#f5e423"
     - title: media-color-two
       color: "#b8e986"
     - title: media-color-three
       color: "#50e3c2"
     - title: media-color-four
-      color: "#f29e56"
+      color: "#971faa"
     - title: media-color-five
       color: "#00428f"
 description: ADMM Cybersecurity and Information Centre of Excellence
