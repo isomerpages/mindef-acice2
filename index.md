@@ -24,13 +24,13 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: Can have 1 or more or non of these panels
       button: Button text
       url: /faq/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: Can have 1 or more or non of these panels
       button: Button Text
       alt: Image alt text
       image: /images/hero-banner.png
