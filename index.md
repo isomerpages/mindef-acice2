@@ -14,7 +14,7 @@ sections:
         title: About Us
         options:
           - title: ACICE
-            url: /acice
+            url: /about
           - title: Organisation Structure
             url: /orgstructure
           - title: Capabilites
