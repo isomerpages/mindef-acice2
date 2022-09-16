@@ -23,17 +23,17 @@ sections:
             url: /activities
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
+      subtitle: This is an "Infobar"
       description: Can have 1 or more or non of these panels
-      button: Button text
+      button: Read More
       url: /faq/
   - infopic:
-      title: Infopic Title
+      title: ADMM
       subtitle: Infopic Subtitle
       description: Can have 1 or more or non of these panels
       button: Button Text
       alt: Image alt text
-      image: /images/hero-banner.png
+      image: /images/Photo 4.png
   - resources:
       title: Resources Section Title
       subtitle: Publications
