@@ -11,7 +11,7 @@ sections:
       subtitle: ADMM Cybersecurity and Information Centre of Excellence
       background: /images/ADMM 2022-3.jpg
       dropdown:
-        title: About Us
+        title: Key Topics
         options:
           - title: ACICE
             url: /about
