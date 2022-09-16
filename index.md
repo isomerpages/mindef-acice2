@@ -22,7 +22,7 @@ sections:
           - title: Activities
             url: /activities
   - infobar:
-      title: Infobar title
+      title: What is ADMM?
       subtitle: This is an "Infobar"
       description: Can have 1 or more or non of these panels
       button: Read More
@@ -38,4 +38,12 @@ sections:
       title: Resources Section Title
       subtitle: Publications
       button: Resources Button Name
+  - infopic:
+      title: What is ASEAN
+      subtitle: This is an "Infopic" section
+      description: Infopic description
+      button: read more
+      url: https://www.google.com/
+      image: /images/ASEAN.png
+      alt: Image alt text
 ---
