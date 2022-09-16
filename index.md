@@ -9,7 +9,7 @@ sections:
   - hero:
       title: ACICE
       subtitle: ADMM Cybersecurity and Information Centre of Excellence
-      background: /images/hero-banner.png
+      background: /images/ADMM 2022-3.jpg
       dropdown:
         title: About Us
         options:
