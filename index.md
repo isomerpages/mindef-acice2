@@ -28,6 +28,14 @@ sections:
       button: Read More
       url: /faq/
   - infopic:
+      title: What is ASEAN
+      subtitle: This is an "Infopic" section
+      description: Infopic description
+      button: read more
+      url: https://www.google.com/
+      image: /images/ADMM 2022.jpg
+      alt: Image alt text
+  - infopic:
       title: ADMM
       subtitle: Infopic Subtitle
       description: Can have 1 or more or non of these panels
@@ -38,12 +46,4 @@ sections:
       title: Resources Section Title
       subtitle: Publications
       button: Resources Button Name
-  - infopic:
-      title: What is ASEAN
-      subtitle: This is an "Infopic" section
-      description: Infopic description
-      button: read more
-      url: https://www.google.com/
-      image: /images/ASEAN.png
-      alt: Image alt text
 ---
